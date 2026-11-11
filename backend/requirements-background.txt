@@ -1,0 +1,2 @@
+# Optional local AI background removal (CPU mode)
+rembg[cpu]==2.0.67

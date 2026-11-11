@@ -1,0 +1,4 @@
+# Install a PyTorch build matching your NVIDIA CUDA driver first.
+# Then install these optional packages in the same virtual environment.
+realesrgan==0.3.0
+basicsr==1.4.2
